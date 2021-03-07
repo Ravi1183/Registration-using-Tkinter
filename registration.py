@@ -96,7 +96,7 @@ if __name__ == "__main__":
 
 	excel() 
 
-	heading = Label(root, text="Form", bg="light green") 
+	heading = Label(text="Form", bg="light green") 
 
 	name = Label(root, text="Name", bg="light green") 
 
